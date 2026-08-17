@@ -54,16 +54,7 @@ Senior Software Engineer specializing in modern web ecosystems, Angular architec
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajatkshatriya&show_icons=true&theme=radical" alt="Rajat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatkshatriya&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🎓 Certifications
 
-* Generative AI Certification[cite: 1]
-* GlobalLogic Certified AI Associate[cite: 1]
+* [Generative AI Certification](https://drive.google.com/file/d/1syqROb1zxlFFbnOgy9z9f36m2FmkstIo/view?usp=drive_link)[cite: 1]
+* [GlobalLogic Certified AI Associate](https://drive.google.com/file/d/1EutoOTSBgBZXVw5OEHMbXwjjykNgaESe/view?usp=drive_link)[cite: 1]
